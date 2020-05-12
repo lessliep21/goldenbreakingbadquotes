@@ -1,0 +1,64 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-family: 'Modak', cursive;
+  font-weight: 600px;
+  color: rgb(24, 33, 14);
+  text-align:center;
+}
+
+#content{
+font-family: 'Permanent Marker', cursive;
+  color: rgb(
+54, 85, 92
+); 
+
+  font-size: 35px;
+  border-color:white;
+  border-style: double;
+text-shadow:2px 2px;
+padding-left:  50px;
+  padding-right: 50px;
+}
+
+#carouselExampleIndicators{
+  width: 900px;
+  length: 100;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom:10px;
+  margin-top:10px;
+}
+
+#wrapper{
+  background-color: rgb(159, 214, 101)
+}
+
+jumbotron jumbotron-fluid{
+  margin-bottom:10px;
+  margin-top:10px;
+  font-size: 50px;
+}
+
+#search{
+  background-color: rgb(232, 176, 201); 
+  border-color:white;
+  border-style:double;
+  padding-right: 50px;
+  
+}
+
+#searchTerm{
+  background-color:rgb(164, 184, 235);
+  border-color:white;
+  border-style:double;
+}
+
+#cardsGroups{
+  width:30px;
+}
